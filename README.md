@@ -4,12 +4,6 @@ Hacktoberfest encourages participation in the open source community, which grows
 ![image](https://user-images.githubusercontent.com/31730129/136656776-bf00aac0-5546-4926-865a-f661a6f846bb.png)
 <h1 align="center"> Hacktoberfest 2021 </h1>
 
-<h3 align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        Link To HacktoberFest 2021
-    </a>
-</h3>
-
 ## Event details :
 
 - What is Hacktoberfest?
@@ -31,8 +25,8 @@ Hacktoberfest encourages participation in the open source community, which grows
 ## <div align="center">Note:-</div>
 
 ##### 1. Don't copy the code from anywhere on the net.
-##### 2. Codes like 'helloworld', 'sum of 2 nos.', etc won't be accepted.😔
+##### 2. Codes like 'helloworld', 'sum of 2 nos.', etc won't be accepted.
 ##### 3. Deadline is 31st October.
-##### 4. I will personally check each code and if I find any code not following the rules, then his/her Pull Request will be marked as invalid and it won't be counted.😥
+##### 4. I will personally check each code and if I find any code not following the rules, then his/her Pull Request will be marked as invalid and it won't be counted.
 
 ## <div align="center">🤞Happy Hacking🤞</div>
