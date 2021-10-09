@@ -9,8 +9,8 @@ namespace BubbleSort {
             for (int i = 0; i <= arrayToSort.Length - 2; i++) {
                if (arrayToSort[i] > arrayToSort[i + 1]) {
                   /* Sort element using temp variable */
-                  temp= arrayToSortarrayToSortarrayToSort[i + 1];
-                  arrayToSort[i + 1] = arrayToSortarrayToSort[i];
+                  temp= arrayToSortarrayToSort[i + 1];
+                  arrayToSort[i + 1] = arrayToSort[i];
                   arrayToSort[i] = temp;
                }
             }
