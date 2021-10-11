@@ -1,5 +1,5 @@
 """
-Problem Decription:
+Problem Decription: Write a program to create the following pattern in python.
   
 Print the pattern:
         
